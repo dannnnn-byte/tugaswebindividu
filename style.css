@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(92, 114, 152);
+}
+
+.container {
+    background-color: rgba(0, 66, 180,);
+    
+}
+
+.nama{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #1E2A5E;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 
+    1px  1px 0 white;
+  
+     
+}
+
+.nim {
+    color: white;
+    text-align: center;
+    margin-top: 1px;
+}
+
+.isi {
+    font-family: helvetica;
+    font-size: 100%;
+    text-align: center;
+    color: white;
+}
+
+.informatika2024 {
+    font-family: helvetica;
+    flex-wrap: wrap;
+    font-size: 200%;
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+
+.fototeman {
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+    margin-left: 1cm;
+}
+
+.temanangkatan {
+    color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    border-color: lightgray;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.biotemanangkatan {
+    color: white;
+    border-color: lightgray;
+    display: flex;
+    flex-direction: row;
+}
+
+.fotosaya {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-style: inset;
+    border-color: rgb(215, 208, 208);
+    border-width: 10px;
+}
